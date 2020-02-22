@@ -1,0 +1,19 @@
+E:\Esoft\C#\My Work\Browser\Browser\bin\Debug\Browser.exe.config
+E:\Esoft\C#\My Work\Browser\Browser\bin\Debug\Browser.exe
+E:\Esoft\C#\My Work\Browser\Browser\bin\Debug\Browser.pdb
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.From1.resources
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.exe
+E:\Esoft\C#\My Work\Browser\Browser\obj\Debug\Browser.pdb
+E:\Esoft\My New Project\Browser\Browser\bin\Debug\Browser.exe.config
+E:\Esoft\My New Project\Browser\Browser\bin\Debug\Browser.exe
+E:\Esoft\My New Project\Browser\Browser\bin\Debug\Browser.pdb
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.From1.resources
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.exe
+E:\Esoft\My New Project\Browser\Browser\obj\Debug\Browser.pdb
